@@ -1,0 +1,11 @@
+/Users/Tim/Desktop/Final_TextAdventure/bin/Debug/netcoreapp2.0/Final_TextAdventure.deps.json
+/Users/Tim/Desktop/Final_TextAdventure/bin/Debug/netcoreapp2.0/Final_TextAdventure.runtimeconfig.json
+/Users/Tim/Desktop/Final_TextAdventure/bin/Debug/netcoreapp2.0/Final_TextAdventure.runtimeconfig.dev.json
+/Users/Tim/Desktop/Final_TextAdventure/bin/Debug/netcoreapp2.0/Final_TextAdventure.dll
+/Users/Tim/Desktop/Final_TextAdventure/bin/Debug/netcoreapp2.0/Final_TextAdventure.pdb
+/Users/Tim/Desktop/Final_TextAdventure/obj/Debug/netcoreapp2.0/Final_TextAdventure.csprojResolveAssemblyReference.cache
+/Users/Tim/Desktop/Final_TextAdventure/obj/Debug/netcoreapp2.0/Final_TextAdventure.csproj.CoreCompileInputs.cache
+/Users/Tim/Desktop/Final_TextAdventure/obj/Debug/netcoreapp2.0/Final_TextAdventure.AssemblyInfoInputs.cache
+/Users/Tim/Desktop/Final_TextAdventure/obj/Debug/netcoreapp2.0/Final_TextAdventure.AssemblyInfo.cs
+/Users/Tim/Desktop/Final_TextAdventure/obj/Debug/netcoreapp2.0/Final_TextAdventure.dll
+/Users/Tim/Desktop/Final_TextAdventure/obj/Debug/netcoreapp2.0/Final_TextAdventure.pdb
